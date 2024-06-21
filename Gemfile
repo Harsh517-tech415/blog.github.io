@@ -8,10 +8,10 @@ group :jekyll_plugins do
   gem 'httparty'
   gem 'time'
   gem 'activesupport'
+  gem 'digest'
   gem 'digest/md5'
   gem 'pathname'
   gem 'css_parser'
-  gem 'digest'
   gem 'fileutils'
   gem 'uri'
   gem "active_support/all"
