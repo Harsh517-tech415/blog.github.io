@@ -14,7 +14,7 @@ group :jekyll_plugins do
   gem 'css_parser'
   gem 'fileutils'
   gem 'uri'
-  gem "active_support/all"
+  gem "active_support"
   gem 'nokogiri'
   gem 'open-uri'
   gem 'i18n'
