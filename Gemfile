@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem 'time'
   gem 'activesupport'
   gem 'digest'
-  gem 'digest/md5'
+  # gem 'digest/md5'
   gem 'pathname'
   gem 'css_parser'
   gem 'fileutils'

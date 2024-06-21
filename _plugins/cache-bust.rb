@@ -3,7 +3,7 @@
 module Jekyll
   module CacheBust
     class CacheDigester
-      require 'digest/md5'
+      # require 'digest/md5'
       require 'pathname'
 
       attr_accessor :file_name, :directory
