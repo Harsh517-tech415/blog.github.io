@@ -6,7 +6,6 @@ group :jekyll_plugins do
   gem "jekyll-timeago", "~> 0.13.1"
   gem 'feedjira' 
   gem 'httparty'
-  gem 'nokogiri'
   gem 'time'
   gem 'activesupport'
   gem 'digest/md5'
@@ -14,7 +13,6 @@ group :jekyll_plugins do
   gem 'css_parser'
   gem 'digest'
   gem 'fileutils'
-  gem 'nokogiri'
   gem 'open-uri'
   gem 'uri'
   gem "active_support/all"
