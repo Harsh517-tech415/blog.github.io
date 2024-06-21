@@ -13,7 +13,6 @@ group :jekyll_plugins do
   gem 'css_parser'
   gem 'digest'
   gem 'fileutils'
-  gem 'open-uri'
   gem 'uri'
   gem "active_support/all"
   gem 'nokogiri'
