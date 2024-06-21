@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem 'httparty'
   gem 'nokogiri'
   gem 'time'
+  gem 'activesupport'
 end
