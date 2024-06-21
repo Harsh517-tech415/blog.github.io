@@ -9,4 +9,17 @@ group :jekyll_plugins do
   gem 'nokogiri'
   gem 'time'
   gem 'activesupport'
+  gem 'digest/md5'
+  gem 'pathname'
+  gem 'css_parser'
+  gem 'digest'
+  gem 'fileutils'
+  gem 'nokogiri'
+  gem 'open-uri'
+  gem 'uri'
+  gem "active_support/all"
+  gem 'nokogiri'
+  gem 'open-uri'
+  gem 'i18n'
+
 end
