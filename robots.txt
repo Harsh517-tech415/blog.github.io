@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://blog.github.io/harsh/sitemap.xml
+Sitemap: https://harsh517-tech415.github.io/harsh-blog/sitemap.xml
